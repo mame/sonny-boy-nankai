@@ -1,5 +1,7 @@
 This is a bonus for geek programmers.
 
+[日本語での解説はこちら](https://mametter.hatenablog.com/entry/2021/08/13/092312)
+
 ## Decomposition of "nankai.rb"
 
 The word ["難解"](https://jisho.org/word/%E9%9B%A3%E8%A7%A3) has two Kanji letters, ["難"](https://jisho.org/search/%E9%9B%A3%20%23kanji) and ["解"](https://jisho.org/search/%E8%A7%A3%20%23kanji).
